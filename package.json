@@ -1,0 +1,17 @@
+{
+  "name": "httpserialize",
+  "version": "0.1.0",
+  "description": "convert http req&resp to plain text (by http protocal)",
+  "main": "./src/httpSerialize.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "http",
+    "serialize",
+    "http-parser",
+    "plain-text"
+  ],
+  "author": "576470954@qq.com",
+  "license": "ISC"
+}
