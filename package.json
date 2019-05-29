@@ -1,6 +1,6 @@
 {
   "name": "httpserialize",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "convert http req&resp to plain text (by http protocal)",
   "main": "./src/httpSerialize.js",
   "scripts": {
@@ -12,6 +12,14 @@
     "http-parser",
     "plain-text"
   ],
-  "author": "576470954@qq.com",
-  "license": "ISC"
+  "author": "a576470954@163.com",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/576470954/httpSerialize.git"
+  },
+  "bugs": {
+    "url": "https://github.com/576470954/httpSerialize/issues"
+  },
+  "homepage": "https://github.com/576470954/httpSerialize#readme"
 }
